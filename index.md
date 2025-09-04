@@ -13,6 +13,6 @@ Here, you’ll find details about my **background, projects, experience, and cer
 
 
 
-## [![About Me](/images/linkedin.jpg)](about.md)
+## [![About Me](/images/linkedin.jpg)](about)
 ## [Projects](projects.md)
 ## [Contact](contact.md)
