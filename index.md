@@ -17,16 +17,4 @@ Here, you’ll find details about my **background, projects, experience, and cer
     <img src="{{ '/images/linkedin.jpg' | relative_url }}" alt="About Me">
     <p>About Me</p>
   </a>
-  <a href="{{ '/projects' | relative_url }}" class="card">
-    <img src="{{ '/assets/images/projects.png' | relative_url }}" alt="Projects">
-    <p>Projects</p>
-  </a>
-  <a href="{{ '/experience' | relative_url }}" class="card">
-    <img src="{{ '/assets/images/experience.png' | relative_url }}" alt="Experience">
-    <p>Experience</p>
-  </a>
-  <a href="{{ '/certifications' | relative_url }}" class="card">
-    <img src="{{ '/assets/images/certifications.png' | relative_url }}" alt="Certifications">
-    <p>Certifications</p>
-  </a>
 </div>
