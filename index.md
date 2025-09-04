@@ -13,8 +13,8 @@ Here, you’ll find details about my **background, projects, experience, and cer
 
 
 <div class="nav-cards">
-  <a href="{{ '/about' | relative_url }}" class="card" style="width:5px;">
-    <img src="{{ '/images/linkedin.jpg' | relative_url }}" alt="About Me">
+  <a href="{{ '/about' | relative_url }}" class="card">
+    <img src="{{ '/images/linkedin.jpg' | relative_url }}" alt="About Me" style="width:20px; height:auto">
     <p>About Me</p>
   </a>
 </div>
