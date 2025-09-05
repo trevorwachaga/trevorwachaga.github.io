@@ -1,0 +1,20 @@
+.nav-cards {
+  display: flex;
+  flex-wrap: wrap;       /* allow wrapping onto new lines */
+  gap: 20px;             /* space between cards */
+  justify-content: center; /* center them across the page */
+}
+
+.nav-cards .card {
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  width: 180px;           /* fixed width so they align neatly */
+  background: #f9f9f9;
+  transition: transform 0.2s;
+}
+
+.nav-cards .card:hover {
+  transform: scale(1.05);
+}
