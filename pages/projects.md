@@ -19,7 +19,7 @@ Here’s a selection of my work — a mix of coding projects, security case stud
   </a>
 
   <!-- PDF Case Study -->
-  <a href="{{ '/docs/penetration-test.pdf' | relative_url }}" target="_blank" class="project-card">
+  <a href="{{ '/docs/penetrationTest.pdf' | relative_url }}" target="_blank" class="project-card">
     <img src="{{ '/images/report.png' | relative_url }}" alt="Penetration Test Report">
     <h3>Penetration Test Case Study</h3>
     <p>A documented penetration test report demonstrating findings.</p>
