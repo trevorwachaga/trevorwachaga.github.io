@@ -26,4 +26,19 @@ Here’s a selection of my work — a mix of coding projects, security case stud
     <span>📄 Read Report</span>
   </a>
 
+  <!-- GitHub Repo Project -->
+  <a href="https://github.com/trevorwachaga/Steganography-Program" target="_blank" class="project-card">
+    <img src="{{ '/images/steg.jpg' | relative_url }}" alt="Steganography Program">
+    <h3>Steganography Program</h3>
+    <p>Python program that allows users to hide and retrieve encrypted messages within images.</p>
+    <span>🔗 View on GitHub</span>
+  </a>
+
+  <!-- GitHub Repo Project -->
+  <a href="https://github.com/trevorwachaga/Network-Enumeration-Tool" target="_blank" class="project-card">
+    <img src="{{ '/images/enumeration.jpg' | relative_url }}" alt="Network Enumeration Tool">
+    <h3>Network Enumeration Tool</h3>
+    <p>Python-based tool that allows users to execute commands on client machines from a server.</p>
+    <span>🔗 View on GitHub</span>
+  </a>
 </div>
