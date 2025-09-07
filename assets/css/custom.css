@@ -18,3 +18,52 @@
 .nav-cards .card:hover {
   transform: scale(1.05);
 }
+
+
+.projects-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.project-card {
+  display: block;
+  background: #fff;
+  border-radius: 12px;
+  padding: 15px;
+  width: 280px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  color: inherit;
+  text-decoration: none;
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.project-card h3 {
+  margin: 8px 0 5px;
+}
+
+.project-card p {
+  font-size: 0.9rem;
+  color: #333;
+  min-height: 60px; /* keeps cards even height */
+}
+
+.project-card span {
+  display: inline-block;
+  margin-top: 8px;
+  font-weight: 600;
+  color: #2980b9;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
