@@ -39,7 +39,7 @@ permalink: /about/
     </p>
 
     <p>
-    View my projects here **[Projects](/pages/projects.md)**.
+    [View my projects here](/pages/projects.md).
     </p>
 
   </div>
