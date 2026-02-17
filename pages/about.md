@@ -37,10 +37,8 @@ permalink: /about/
     <p>
     I am actively seeking an entry-level IT Support role where I can contribute, learn and continue developing my skills.
     </p>
-
-    <p>
-    [View my projects here](/pages/projects.md).
-    </p>
+    
+[View my projects here](/pages/projects.md).
 
   </div>
 
