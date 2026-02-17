@@ -9,7 +9,7 @@ Hi, I'm Trevor Wachaga.
 
 I'm an Ethical Hacking & Cyber Security Graduate.
 
-Here, you’ll find details about my **background, projects, experience, and certifications**.  
+Here, you’ll find details about my **background, projects, experience, and certifications**.<br>
 
 
 
