@@ -12,7 +12,7 @@ permalink: /about/
        style="width: 220px; border-radius: 10px;">
 
   <div>
-    <h2>Hello! My Name is Trevor Wachaga</h2>
+    <h2>Hello! My Name is Trevor Wachaga</h2><br>
 
     <p>
     I am a First-Class Ethical Hacking & Cyber Security graduate, currently pursuing a career in IT Support, with the long-term goal of progressing into Cyber Security.
@@ -39,7 +39,7 @@ permalink: /about/
     </p>
 
     <p>
-    <a href="/pages/projects.md">View my projects here</a>
+    <a href="projects.md">View my projects here</a>
     </p>
 
   </div>
