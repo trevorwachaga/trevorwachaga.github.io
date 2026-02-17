@@ -22,14 +22,14 @@ Here, you’ll find details about my **background, projects, experience, and cer
     <img src="{{ '/images/projects.png' | relative_url }}" alt="Projects" style="width:150px; height:auto">
     <p>Projects</p>
   </a>
-  <a href="{{ '/experience' | relative_url }}" class="card">
+<!--  <a href="{{ '/experience' | relative_url }}" class="card">
     <img src="{{ '/images/experience.jpg' | relative_url }}" alt="Experience" style="width:150px; height:auto">
     <p>Experience</p>
   </a>
   <a href="{{ '/certifications' | relative_url }}" class="card">
     <img src="{{ '/images/certification.png' | relative_url }}" alt="Certifications" style="width:150px; height:auto">
     <p>Certifications</p>
-  </a>
+  </a> -->
   <a href="{{ '/contact' | relative_url }}" class="card">
     <img src="{{ '/images/contact.png' | relative_url }}" alt="Contact" style="width:150px; height:auto">
     <p>Contact</p>
