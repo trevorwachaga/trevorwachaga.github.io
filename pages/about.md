@@ -39,7 +39,7 @@ permalink: /about/
     </p>
 
     <p>
-    <a href="projects.md">View my projects here</a>
+    <a href="{{ '/projects' | relative_url }}">View my projects here</a>
     </p>
 
   </div>
