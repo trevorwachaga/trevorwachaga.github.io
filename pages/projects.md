@@ -11,6 +11,14 @@ Here’s a selection of my work — a mix of coding projects, security case stud
 <div class="projects-grid">
 
   <!-- GitHub Repo Project -->
+  <a href="/docs/NetworkIntrusionDetectionSystemReport.docx.pdf" target="_blank" class="project-card">
+    <img src="{{ '/images/elkstack.png' | relative_url }}" alt="Hash Cracker">
+    <h3>Network Intrusion Detection System Report</h3>
+    <p>A documented report demonstrating the deployment and configuration of an ELK stack to monitor network traffic</p>
+    <span>📄 Read Report</span>
+  </a>
+
+  <!-- GitHub Repo Project -->
   <a href="https://github.com/trevorwachaga/bruteforce" target="_blank" class="project-card">
     <img src="{{ '/images/bruteforce.jpg' | relative_url }}" alt="Hash Cracker">
     <h3>Hash Cracker</h3>
