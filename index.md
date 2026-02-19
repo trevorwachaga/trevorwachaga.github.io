@@ -5,11 +5,11 @@ title: Home
 
 # Welcome to My Portfolio
 
-Hi, I'm Trevor Wachaga.
+Hi, I'm Trevor Wachaga!
 
 I'm an Ethical Hacking & Cyber Security Graduate.
 
-Here, you’ll find details about my **background, projects, and ways to contact me**.<br>
+Here you’ll find details about my **background, projects, and ways to contact me**.<br>
 
 <div style="display: flex; align-items: center; gap: 40px; max-width: 900px; margin: auto;">       
     <div>
