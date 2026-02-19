@@ -22,6 +22,12 @@ permalink: /contact/
                 <p>twachaga71@gmail.com.</p>
                 <span>🔗 Send me an email</span>
             </a>
+            <a href="https://github.com/trevorwachaga" target="_blank" class="project-card">
+                <img src="{{ '/images/githublogo.png' | relative_url }}" alt="Github">
+                <h3>My Github</h3>
+                <p>Click here to view my github</p>
+                <span>🔗 View my projects</span>
+            </a>
         <div>
     <div>
 <div>
