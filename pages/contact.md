@@ -28,8 +28,8 @@ permalink: /contact/
                 <p>Click here to view my github</p>
                 <span>🔗 View my projects</span>
             </a>
-        <div>
-    <div>
-<div>
+        </div>
+    </div>
+</div>
 
   

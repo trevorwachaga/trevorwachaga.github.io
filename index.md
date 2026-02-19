@@ -26,6 +26,6 @@ Here, you’ll find details about my **background, projects, and ways to contact
               <img src="{{ '/images/contact.png' | relative_url }}" alt="Contact">
               <h3>Contact me</h3>
           </a>
-      <div>
-    <div>
-<div>
+      </div>
+    </div>
+</div>
